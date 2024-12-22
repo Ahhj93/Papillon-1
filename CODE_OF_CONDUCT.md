@@ -40,7 +40,7 @@ Ce Code de Conduite s'applique dans tous les espaces de la communauté, et égal
 
 ## Application
 
-Les incidents de comportement abusif, de harcèlement ou autrement inacceptable peuvent être signalés aux leaders de la communauté responsables de l'application à <support@getpapillon.xyz>.
+Les incidents de comportement abusif, de harcèlement ou autrement inacceptable peuvent être signalés aux leaders de la communauté responsables de l'application à <support@getpapillon.bzh>.
 Toutes les plaintes seront examinées et traitées rapidement et équitablement.
 
 Tous les leaders de la communauté sont tenus de respecter la confidentialité et la sécurité du rapporteur de tout incident.
